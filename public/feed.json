@@ -1,0 +1,65 @@
+{
+  "feed_url": "https://sebastienrousseau.com/zig-config/feed.json",
+  "home_page_url": "https://sebastienrousseau.com/zig-config/",
+  "items": [
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to install and set up @sebastienrousseau/zig-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/zig-config/installation/",
+      "tags": [],
+      "title": "Installation — @sebastienrousseau/zig-config",
+      "url": "https://sebastienrousseau.com/zig-config/installation/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Model Context Protocol configuration for @sebastienrousseau/zig-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/zig-config/mcp/",
+      "tags": [],
+      "title": "Model Context Protocol (MCP) — @sebastienrousseau/zig-config",
+      "url": "https://sebastienrousseau.com/zig-config/mcp/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Reference specifications and options for @sebastienrousseau/zig-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/zig-config/reference/",
+      "tags": [],
+      "title": "Reference — @sebastienrousseau/zig-config",
+      "url": "https://sebastienrousseau.com/zig-config/reference/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to use and configure @sebastienrousseau/zig-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/zig-config/usage/",
+      "tags": [],
+      "title": "Usage — @sebastienrousseau/zig-config",
+      "url": "https://sebastienrousseau.com/zig-config/usage/"
+    }
+  ],
+  "language": "en-GB",
+  "title": "zig-config",
+  "version": "https://jsonfeed.org/version/1.1"
+}
