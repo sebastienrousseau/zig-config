@@ -18,3 +18,15 @@ Shareable Zig configuration providing standardized Zig Language Server (ZLS) and
 | `index.d.ts` | TypeScript | TypeScript >= 5.0 | Type declarations |
 
 ---
+
+## Feature & Property Reference
+
+### 1. zls.json
+- **Description**: ZLS configuration enabling autofix, snippets, style warnings, and semantic token highlighting.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
+
+### 2. build.zig.zon
+- **Description**: Package manifest template adhering strictly to Zig 0.13+ package manager conventions.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
