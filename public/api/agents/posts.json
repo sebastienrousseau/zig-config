@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable Zig configuration providing standardized Zig Language Server (ZLS) and build formatting rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/zig-config — Shareable Zig configuration standards for build formatting and language server options.",
+    "url": "https://sebastienrousseau.com/zig-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/zig-config.",
     "locale": "en-GB",

@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "How to install and set up @sebastienrousseau/zig-config.",
+  "description": "Shareable Zig configuration providing standardized Zig Language Server (ZLS) and build formatting rules adhering to modern 2026 standards.",
   "display": "standalone",
   "name": "zig-config",
   "orientation": "portrait-primary",
