@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/zigtools/zls/master/schema.json",
+  "enable_autofix": true,
+  "warn_style": true,
+  "highlight_global_var_declarations": true
+}
