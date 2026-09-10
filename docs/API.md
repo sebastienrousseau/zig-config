@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable Zig configuration providing standardized Zig Language Server (ZLS) and build formatting rules adhering to modern 2026 standards.
 
 ---
@@ -22,11 +23,13 @@ Shareable Zig configuration providing standardized Zig Language Server (ZLS) and
 ## Feature & Property Reference
 
 ### 1. zls.json
+
 - **Description**: ZLS configuration enabling autofix, snippets, style warnings, and semantic token highlighting.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 2. build.zig.zon
+
 - **Description**: Package manifest template adhering strictly to Zig 0.13+ package manager conventions.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
