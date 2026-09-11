@@ -1,0 +1,9 @@
+index.js usr/share/nodejs/@sebastienrousseau/zig-config/
+index.mjs usr/share/nodejs/@sebastienrousseau/zig-config/
+index.cjs usr/share/nodejs/@sebastienrousseau/zig-config/
+index.d.ts usr/share/nodejs/@sebastienrousseau/zig-config/
+zls.json usr/share/nodejs/@sebastienrousseau/zig-config/
+build.zig.zon usr/share/nodejs/@sebastienrousseau/zig-config/
+LICENSE usr/share/nodejs/@sebastienrousseau/zig-config/
+.editorconfig usr/share/nodejs/@sebastienrousseau/zig-config/
+package.json usr/share/nodejs/@sebastienrousseau/zig-config/
