@@ -1,5 +1,0 @@
-# zig-config
-
-> Shareable Zig configuration providing standardized Zig Language Server (ZLS) and build formatting rules adhering to modern 2026 standards.
-
-Language: en-GB
